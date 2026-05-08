@@ -16,7 +16,7 @@ const Footer = () => {
             <Link href="/" className="flex items-center space-x-2 text-3xl">
               {/* <Leaf className="h-10 w-10 text-white" /> */}
               <span className="text-3xl font-heading font-semibold text-white ">
-                EcoForever
+                EcoPract
               </span>
             </Link>
             <p className="text-white/80 text-base leading-relaxed max-w-xs">
@@ -75,7 +75,7 @@ const Footer = () => {
                 </li>
                 <li className="flex items-start space-x-2 md:space-x-3">
                   <Mail className="h-4 w-4 md:h-5 md:w-5 text-white/80 shrink-0 mt-0.5 md:mt-1" />
-                  <span className="text-white/80 text-xs sm:text-sm md:text-base break-words">info@ecoforever.co.in</span>
+                  <span className="text-white/80 text-xs sm:text-sm md:text-base break-words">info@ecopract.co.in</span>
                 </li>
                 <li className="flex items-start space-x-2 md:space-x-3">
                   <MapPin className="h-4 w-4 md:h-5 md:w-5 text-white/80 shrink-0 mt-0.5 md:mt-1" />
@@ -93,7 +93,7 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center bg-[var(--color-heading)]">
           <p className="text-xs text-white/60">
-            © {currentYear} EcoForever. All rights reserved.
+            © {currentYear} EcoPract. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <Link href="/privacy" className="text-xs text-white/60 hover:text-white transition-colors">

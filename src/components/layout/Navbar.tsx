@@ -33,7 +33,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16 gap-4">
           <Link href="/" className="flex items-center shrink-0">
             <Image
-              src="/logo/logo-tr.png"
+              src="/logo/ecopract.jpeg"
               alt="EcoForever Logo"
               width={200}
               height={80}

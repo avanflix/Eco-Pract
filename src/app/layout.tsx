@@ -17,7 +17,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "EcoForever - Sustainable Tableware from Nature",
+  title: "EcoPract - Sustainable Tableware from Nature",
   description: "Premium wooden, bamboo, and Palash and Sal tableware. Eco-friendly cutlery, plates, and bowls crafted for conscious living.",
   keywords: "sustainable tableware, wooden cutlery, bamboo products, eco-friendly dining, biodegradable plates",
 };

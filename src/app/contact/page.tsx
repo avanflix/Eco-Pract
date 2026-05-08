@@ -57,8 +57,8 @@ const Contact = () => {
       icon: Mail,
       title: "Email Us",
       description: "Send us an email and we'll respond within 24 hours",
-      contact: "info@ecoforever.co.in",
-      action: "mailto:info@ecoforever.co.in"
+      contact: "info@ecopract.co.in",
+      action: "mailto:info@ecopract.co.in"
     },
     {
       icon: Phone,
